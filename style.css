@@ -1,0 +1,29 @@
+
+
+#container{
+    position: relative;
+    top: 50%;
+    left: 20%;
+    height: 500px;
+    width: 700px;
+    background-color: black;
+}
+
+
+
+
+#box {
+    width: 50px;
+    height: 50px;
+    background-color:cyan;
+    cursor: pointer;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box p {
+    font-size: 1=20px;
+    color:black;
+}
